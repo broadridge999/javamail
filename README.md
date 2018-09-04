@@ -1,0 +1,2 @@
+# javamail
+mail capabilities
